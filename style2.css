@@ -1,0 +1,141 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Introduce section style  */
+
+
+
+.heading {
+    font-size: 70px;
+    color: #FFFFFF;
+}
+
+.paragraph {
+    font-size: 16px;
+    color: #FFFFFF;
+}
+
+.step-1 {
+
+    background-color: #161616;
+    width: 1321px;
+    height: 646px;
+    border-radius: 30px;
+    margin: auto;
+}
+
+.both-side {
+    display: flex;
+}
+
+.left-side {
+    padding-left: 106px;
+
+}
+
+.right-side img {
+
+    width: 581px;
+    height: 613px;
+    margin-top: 33px;
+    margin-right: 79px;
+}
+
+.button-1 {
+    text-decoration: none;
+    background-color: red;
+    padding: 16px 25px;
+    border-radius: 5px;
+    color: #FFFFFF;
+}
+
+
+/* Live section style */
+
+.fa-clock {
+    margin-right: 10px;
+}
+
+.fa-comment-dots {
+    margin-right: 10px;
+
+}
+
+.hour {
+    margin-right: 30px;
+}
+
+.button-2 {
+    width: 100px;
+    height: 32px;
+    text-decoration: none;
+    background-color: #FFFFFF;
+    color: #161616;
+    border-radius: 5px;
+    padding: 10px 15px;
+    border-style: solid;
+}
+
+.videos {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.videos .video img {
+    Width: 312px;
+    Height: 175px;
+}
+
+.step-2 {
+    background-color: white;
+    width: 1321px;
+    height: 646px;
+    border-radius: 30px;
+    margin: auto;
+
+}
+
+.buttons3 .button-1 {
+    padding: 8px;
+}
+
+/* Last section style */
+
+.bg-black {
+    color: white;
+    background-color: #161616;
+    width: 1600px;
+    height: 444px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 130px;
+
+}
+
+.line {
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+.about-us {
+    display: flex;
+
+}
+
+.about-us .move {
+    margin: auto;
+
+
+}
+
+.move {
+    list-style: none;
+    text-decoration: none;
+    color: #FFFFFF;
+
+
+}
